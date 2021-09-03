@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:stalkers/widgets/bgImage.dart';
-import 'package:stalkers/widgets/logincard.dart';
 import 'package:stalkers/widgets/logoImage.dart';
 
 class HomePage extends StatefulWidget {
@@ -49,7 +48,9 @@ class _HomePageState extends State<HomePage> {
                 child: Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: ElevatedButton(
-                    onPressed: () {},
+                    onPressed: () {
+                      Navigator.pushNamed(context, "/signup");
+                    },
                     child: Text("Sign Up"),
                     style: ButtonStyle(
                         shape: MaterialStateProperty.all(
