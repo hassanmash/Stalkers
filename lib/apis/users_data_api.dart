@@ -3,10 +3,8 @@ import 'package:stalkers/model/user.dart';
 
 class UsersDataApi {
   static const _credentials = r'''
-{
-  // give your credentials here...
-}
-''';
+
+'''; // Give your sheet credentials here.
   static final _spreadsheetId = ''; // provide your spreadhsheet id here
 
   static final _gsheets = GSheets(_credentials);

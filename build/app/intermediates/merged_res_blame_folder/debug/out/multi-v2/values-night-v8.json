@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/hassan/Documents/Flutter/stalkers/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "C:\\Users\\Hassan\\Documents\\Flutter Apps\\stalkers\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/hassan/Documents/Flutter/stalkers/android/app/src/main/res/values-night/styles.xml",
+                    "source": "C:\\Users\\Hassan\\Documents\\Flutter Apps\\stalkers\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

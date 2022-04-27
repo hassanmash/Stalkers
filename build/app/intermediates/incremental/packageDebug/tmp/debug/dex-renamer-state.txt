@@ -1,4 +1,7 @@
-#Fri Sep 03 20:53:36 IST 2021
-base.0=/home/hassan/Documents/Flutter/stalkers/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Tue Apr 26 12:00:06 IST 2022
+base.1=C\:\\Users\\Hassan\\Documents\\Flutter Apps\\stalkers\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\Hassan\\Documents\\Flutter Apps\\stalkers\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex
